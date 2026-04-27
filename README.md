@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/hemantagrawal20/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemantagrawal20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
@@ -35,5 +36,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemantagrawal20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
