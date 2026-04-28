@@ -53,4 +53,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemantagrawal20/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hemantagrawal20/Leetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
