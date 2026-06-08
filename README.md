@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
