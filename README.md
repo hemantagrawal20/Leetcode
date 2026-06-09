@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hemantagrawal20/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -72,5 +74,6 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
