@@ -61,6 +61,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -75,5 +76,10 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
