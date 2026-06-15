@@ -68,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hemantagrawal20/Leetcode/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
