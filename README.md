@@ -67,12 +67,14 @@
 | [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -108,6 +110,7 @@
 | [0231-power-of-two](https://github.com/hemantagrawal20/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hemantagrawal20/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hemantagrawal20/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
