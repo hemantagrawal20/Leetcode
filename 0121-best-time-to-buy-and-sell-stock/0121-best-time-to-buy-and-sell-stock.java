@@ -20,13 +20,11 @@ public class Solution {
         Scanner scanner = new Scanner(System.in);
         
       
-        System.out.print("Enter the number of days: ");
-        int n = scanner.nextInt();
         
+        int n = scanner.nextInt();
         
         int[] prices = new int[n];
         
-        System.out.println("Enter the prices of the stock for each day:");
         for (int i = 0; i < n; i++) {
             prices[i] = scanner.nextInt();
         }
@@ -35,7 +33,7 @@ public class Solution {
         Solution solution = new Solution();
         
         int maxProfit = solution.maxProfit(prices);
-        System.out.println("Maximum profit: " + maxProfit);
+        System.out.println(maxProfit);
         
         scanner.close();
     }
