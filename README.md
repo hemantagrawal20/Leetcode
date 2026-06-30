@@ -36,6 +36,7 @@
 | [0141-linked-list-cycle](https://github.com/hemantagrawal20/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/hemantagrawal20/Leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -70,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hemantagrawal20/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/hemantagrawal20/Leetcode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0796-rotate-string) |
