@@ -68,6 +68,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/hemantagrawal20/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
