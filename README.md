@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/hemantagrawal20/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/hemantagrawal20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantagrawal20/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0326-power-of-three](https://github.com/hemantagrawal20/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hemantagrawal20/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantagrawal20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -131,4 +133,12 @@
 | [0176-second-highest-salary](https://github.com/hemantagrawal20/Leetcode/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/hemantagrawal20/Leetcode/tree/master/0595-big-countries) |
 | [1890-the-latest-login-in-2020](https://github.com/hemantagrawal20/Leetcode/tree/master/1890-the-latest-login-in-2020) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
