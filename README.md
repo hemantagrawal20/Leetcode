@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemantagrawal20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/hemantagrawal20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantagrawal20/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -144,4 +146,12 @@
 | ------- |
 | [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/hemantagrawal20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
