@@ -17,6 +17,7 @@
 | [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/hemantagrawal20/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hemantagrawal20/Leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -54,6 +56,7 @@
 | [0164-maximum-gap](https://github.com/hemantagrawal20/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [0066-plus-one](https://github.com/hemantagrawal20/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/hemantagrawal20/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hemantagrawal20/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hemantagrawal20/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
@@ -119,6 +123,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hemantagrawal20/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/hemantagrawal20/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantagrawal20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -165,4 +170,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
