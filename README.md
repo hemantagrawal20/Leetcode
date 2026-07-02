@@ -104,10 +104,12 @@
 | [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantagrawal20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/hemantagrawal20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/hemantagrawal20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/hemantagrawal20/Leetcode/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/hemantagrawal20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
