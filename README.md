@@ -20,6 +20,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1051-height-checker](https://github.com/hemantagrawal20/Leetcode/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0169-majority-element](https://github.com/hemantagrawal20/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemantagrawal20/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/hemantagrawal20/Leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hemantagrawal20/Leetcode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/hemantagrawal20/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
