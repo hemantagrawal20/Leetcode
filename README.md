@@ -119,6 +119,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantagrawal20/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantagrawal20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/hemantagrawal20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hemantagrawal20/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
