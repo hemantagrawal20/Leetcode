@@ -150,6 +150,7 @@
 | [0175-combine-two-tables](https://github.com/hemantagrawal20/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/hemantagrawal20/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/hemantagrawal20/Leetcode/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/hemantagrawal20/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0595-big-countries](https://github.com/hemantagrawal20/Leetcode/tree/master/0595-big-countries) |
 | [1890-the-latest-login-in-2020](https://github.com/hemantagrawal20/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Brainteaser
