@@ -36,6 +36,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/hemantagrawal20/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hemantagrawal20/Leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/hemantagrawal20/Leetcode/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0205-isomorphic-strings](https://github.com/hemantagrawal20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/hemantagrawal20/Leetcode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/hemantagrawal20/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/hemantagrawal20/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
@@ -97,11 +99,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemantagrawal20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/hemantagrawal20/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/hemantagrawal20/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/hemantagrawal20/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/hemantagrawal20/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hemantagrawal20/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
