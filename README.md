@@ -209,13 +209,20 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hemantagrawal20/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
